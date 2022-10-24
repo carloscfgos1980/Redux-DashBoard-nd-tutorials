@@ -1,0 +1,39 @@
+
+.header{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: brown;
+}
+.header h1{
+  margin: auto;
+  width: 50%;
+}
+
+
+.layout{
+  max-width: fit-content;
+  display: flex;
+  background-color: aqua;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.list, .average-fun, .average-difficulty{
+color: black;
+margin: 40px;
+width: 300px;
+}
+
+
+.list h3{
+  margin-left: 40px;
+}
+
+ul{
+  margin-top: 20px;
+}
+
+p{
+  height: 50px;
+}
