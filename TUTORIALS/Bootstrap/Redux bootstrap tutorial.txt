@@ -1,3 +1,11 @@
 ## Redux bootstrap tutorial
 
-https://www.youtube.com/watch?v=0SIuH7yHCpA
+# I followed two tutorials:
+1. The Net Ninja.
+2. UIBrains.
+
+# The Net Ninja is quite completed but is implemented for html only
+
+# UI brains is implemented for React:
+
+https://react-bootstrap.github.io/getting-started/introduction
